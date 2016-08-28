@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Paths>
+  <Jars></Jars>
+  <ResolvedResourceDirectories>
+    <ResolvedResourceDirectory>C:\Users\Sanchit\Documents\Visual Studio 2015\Projects\ClaimsForm\App8\obj\Debug\__library_projects__\Akavache\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\Sanchit\Documents\Visual Studio 2015\Projects\ClaimsForm\App8\obj\Debug\__library_projects__\Splat\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\Sanchit\Documents\Visual Studio 2015\Projects\ClaimsForm\App8\obj\Debug\__library_projects__\SQLitePCL.batteries\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\Sanchit\Documents\Visual Studio 2015\Projects\ClaimsForm\App8\obj\Debug\__library_projects__\SQLitePCL.raw\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\Sanchit\Documents\Visual Studio 2015\Projects\ClaimsForm\App8\obj\Debug\__library_projects__\SQLitePCLPlugin_esqlite3\library_project_imports\res</ResolvedResourceDirectory>
+  </ResolvedResourceDirectories>
+  <ResolvedAssetDirectories>
+    <ResolvedAssetDirectory>C:\Users\Sanchit\Documents\Visual Studio 2015\Projects\ClaimsForm\App8\obj\Debug\__library_projects__\Akavache\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>C:\Users\Sanchit\Documents\Visual Studio 2015\Projects\ClaimsForm\App8\obj\Debug\__library_projects__\Splat\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>C:\Users\Sanchit\Documents\Visual Studio 2015\Projects\ClaimsForm\App8\obj\Debug\__library_projects__\SQLitePCL.batteries\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>C:\Users\Sanchit\Documents\Visual Studio 2015\Projects\ClaimsForm\App8\obj\Debug\__library_projects__\SQLitePCL.raw\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>C:\Users\Sanchit\Documents\Visual Studio 2015\Projects\ClaimsForm\App8\obj\Debug\__library_projects__\SQLitePCLPlugin_esqlite3\library_project_imports\assets</ResolvedAssetDirectory>
+  </ResolvedAssetDirectories>
+  <ResolvedEnvironmentFiles />
+  <ResolvedResourceDirectoryStamps>
+    <ResolvedResourceDirectoryStamp>C:\Users\Sanchit\Documents\Visual Studio 2015\Projects\ClaimsForm\App8\obj\Debug\__library_projects__\Akavache.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\Sanchit\Documents\Visual Studio 2015\Projects\ClaimsForm\App8\obj\Debug\__library_projects__\Splat.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\Sanchit\Documents\Visual Studio 2015\Projects\ClaimsForm\App8\obj\Debug\__library_projects__\SQLitePCL.batteries.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\Sanchit\Documents\Visual Studio 2015\Projects\ClaimsForm\App8\obj\Debug\__library_projects__\SQLitePCL.raw.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\Sanchit\Documents\Visual Studio 2015\Projects\ClaimsForm\App8\obj\Debug\__library_projects__\SQLitePCLPlugin_esqlite3.stamp</ResolvedResourceDirectoryStamp>
+  </ResolvedResourceDirectoryStamps>
+</Paths>

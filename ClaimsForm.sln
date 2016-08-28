@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClaimsForm", "App8\ClaimsForm.csproj", "{FC293E41-1BE4-46AB-8A45-035913D4699A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC293E41-1BE4-46AB-8A45-035913D4699A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC293E41-1BE4-46AB-8A45-035913D4699A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC293E41-1BE4-46AB-8A45-035913D4699A}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{FC293E41-1BE4-46AB-8A45-035913D4699A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC293E41-1BE4-46AB-8A45-035913D4699A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC293E41-1BE4-46AB-8A45-035913D4699A}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

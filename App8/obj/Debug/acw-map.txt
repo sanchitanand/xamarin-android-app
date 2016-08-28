@@ -1,0 +1,20 @@
+App8.CustomAdapter, App8;md5e774713ee5ec4c628fd26eee1987bbd0.CustomAdapter
+App8.CustomAdapter, App8, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5e774713ee5ec4c628fd26eee1987bbd0.CustomAdapter
+App8.CustomAdapter;md5e774713ee5ec4c628fd26eee1987bbd0.CustomAdapter
+app8.CustomAdapter;md5e774713ee5ec4c628fd26eee1987bbd0.CustomAdapter
+App8.MyListActivity, App8;md5e774713ee5ec4c628fd26eee1987bbd0.MyListActivity
+App8.MyListActivity, App8, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5e774713ee5ec4c628fd26eee1987bbd0.MyListActivity
+App8.MyListActivity;md5e774713ee5ec4c628fd26eee1987bbd0.MyListActivity
+app8.MyListActivity;md5e774713ee5ec4c628fd26eee1987bbd0.MyListActivity
+App8.DatePickerFragment, App8;md5e774713ee5ec4c628fd26eee1987bbd0.DatePickerFragment
+App8.DatePickerFragment, App8, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5e774713ee5ec4c628fd26eee1987bbd0.DatePickerFragment
+App8.DatePickerFragment;md5e774713ee5ec4c628fd26eee1987bbd0.DatePickerFragment
+app8.DatePickerFragment;md5e774713ee5ec4c628fd26eee1987bbd0.DatePickerFragment
+App8.LoginActivity, App8;md5e774713ee5ec4c628fd26eee1987bbd0.LoginActivity
+App8.LoginActivity, App8, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5e774713ee5ec4c628fd26eee1987bbd0.LoginActivity
+App8.LoginActivity;md5e774713ee5ec4c628fd26eee1987bbd0.LoginActivity
+app8.LoginActivity;md5e774713ee5ec4c628fd26eee1987bbd0.LoginActivity
+App8.MainActivity, App8;md5e774713ee5ec4c628fd26eee1987bbd0.MainActivity
+App8.MainActivity, App8, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5e774713ee5ec4c628fd26eee1987bbd0.MainActivity
+App8.MainActivity;md5e774713ee5ec4c628fd26eee1987bbd0.MainActivity
+app8.MainActivity;md5e774713ee5ec4c628fd26eee1987bbd0.MainActivity

@@ -1,0 +1,1 @@
+<resources><style name="MyTheme" parent="@android:style/Theme.Holo.NoActionBar"><item name="android:windowNoTitle">true</item><item name="android:windowActionBar">false</item></style></resources>
